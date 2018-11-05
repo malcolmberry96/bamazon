@@ -1,10 +1,10 @@
 # bamazon
 
-**##Project Overview**
+**Project Overview**
 
 ###Bamazon is a node based applicatation that I created in week 12 of the UT Austin Coding BootCamp. This application uses javascript and a MySQL database in order to generate functionalities that include allowing "customers" to view items, check their availablility, and purchase them. 
 
-**##What the JS Command line does**
+**What the JS Command line does**
 
 1. User types in node bamazonCustomer.js into the bamazon directory 
 2. Program prompts a welcome message and a list of items available for purchase
